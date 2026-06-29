@@ -28,12 +28,6 @@ Chat interface maintains conversation context<br/>
 # 🎯 Business Impact
 This approach can increase e-commerce conversion rates by providing personalized, context-aware product suggestions instead of basic keyword matching.
 
-# About Me  
-👋 Hi, I'm Sachin Hatikankan – an RPA Engineer transitioning into AI/ML & Generative AI.
-
-🧠 Passionate about building practical GenAI tools for creators and enterprises
-
-💼 Currently seeking roles in Data Science, AI/ML Engineering, Applied GenAI
 
 🔗 Let’s connect: [LinkedIn – Sachin Hatikankan](https://www.linkedin.com/in/sachin-hatikankan-b5673ab4/)
 
